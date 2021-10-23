@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Python 切片学习笔记</title>
+      <link href="/2021/10/23/Python-%E5%88%87%E7%89%87%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <url>/2021/10/23/Python-%E5%88%87%E7%89%87%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>s = <span class="string">&#x27;bicycle&#x27;</span></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>s[::<span class="number">3</span>]</span><br><span class="line"><span class="string">&#x27;bye&#x27;</span></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>s[::-<span class="number">1</span>]</span><br><span class="line"><span class="string">&#x27;elcycib&#x27;</span></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>s[::-<span class="number">2</span>]</span><br><span class="line"><span class="string">&#x27;eccb&#x27;</span></span><br></pre></td></tr></table></figure><p>这个简单的例子使用的语法格式是 <code>seq[start:end:step]</code>，它的含义是</p><blockquote><p>在 start 和 end 之间以 step 为间隔取值。step 的值可以为负，负值意味着反向取值。</p></blockquote><p>上面有一个经典的利用 step 为负值的反转字符串的用法：<code>s[::-1]</code>。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> FluentPython </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《倪亚达很不屑》札记</title>
       <link href="/2021/10/21/%E3%80%8A%E5%80%AA%E4%BA%9A%E8%BE%BE%E5%BE%88%E4%B8%8D%E5%B1%91%E3%80%8B%E6%9C%AD%E8%AE%B0/"/>
       <url>/2021/10/21/%E3%80%8A%E5%80%AA%E4%BA%9A%E8%BE%BE%E5%BE%88%E4%B8%8D%E5%B1%91%E3%80%8B%E6%9C%AD%E8%AE%B0/</url>
