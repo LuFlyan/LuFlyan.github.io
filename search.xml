@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>《一站式学习 C 编程》阅读札记</title>
+      <link href="/2021/10/28/%E3%80%8A%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0-C-%E7%BC%96%E7%A8%8B%E3%80%8B%E9%98%85%E8%AF%BB%E6%9C%AD%E8%AE%B0/"/>
+      <url>/2021/10/28/%E3%80%8A%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0-C-%E7%BC%96%E7%A8%8B%E3%80%8B%E9%98%85%E8%AF%BB%E6%9C%AD%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>暂且按下不表。Wait.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《精通 Linux（第 2 版）》阅读札记</title>
+      <link href="/2021/10/28/%E3%80%8A%E7%B2%BE%E9%80%9A-Linux%EF%BC%88%E7%AC%AC-2-%E7%89%88%EF%BC%89%E3%80%8B%E9%98%85%E8%AF%BB%E6%9C%AD%E8%AE%B0/"/>
+      <url>/2021/10/28/%E3%80%8A%E7%B2%BE%E9%80%9A-Linux%EF%BC%88%E7%AC%AC-2-%E7%89%88%EF%BC%89%E3%80%8B%E9%98%85%E8%AF%BB%E6%9C%AD%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p><code>$</code> 是普通用户提示符。如果你是超级用户的话则是 <code>#</code>。</p></blockquote><h1 id="第1章-概述"><a href="#第1章-概述" class="headerlink" title="第1章 概述"></a>第1章 概述</h1><blockquote><p>理解操作系统工作原理最好的方法是抽象思维，换句话说，你可以暂时忽略大部分细节。就像坐车一样，通常你不会去在意车内固定发动机的装配螺栓，也不会关心你走的路是谁修筑的。</p></blockquote><blockquote><p>但如果你在开车的话，就需要了解更多的细节，比如如何控制油门、怎样换挡，还有如何处理意外情况。</p></blockquote><blockquote><p>内核是运行在内存中的软件，它向中央处理器发送指令。内核管理硬件系统，是硬件系统和应用程序之间进行通信的接口。</p></blockquote><blockquote><p>进程是指计算机中运行的所有程序，由内核统一管理，它们组成了最顶层，称为用户空间。</p></blockquote><blockquote><p>用户空间指的是那些用户进程能够访问的内存空间。如果一个用户进程出错并崩溃的话，其导致的后果也相对有限，并且能够被内核清理掉。</p></blockquote><blockquote><p>如果拥有足够的权限，用户进程可以将硬盘上的数据全部清除。</p></blockquote><blockquote><p>在我们谈论内存、进程、内核和其他内容时，你会经常看到状态（state）这个词。严格说来，一个状态就是一组特定排列的比特。例如，内存中 0110、0001 和 1011 这三组比特值即表示三个不同的状态。</p></blockquote><blockquote><p>内核负责管理以下四个方面：</p><ul><li>进程：内核负责管理以下四个方面。</li><li>内存：内核管理所有的内存，为进程分配内存，管理进程间的共享内存以及空闲内存。</li><li>设备驱动程序：作为硬件系统（如磁盘）和进程之间的接口，内核负责操控硬件设备。</li><li>系统调用和支持：进程通常使用系统调用和内核进行通信。</li></ul></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《东京老铺》札记</title>
       <link href="/2021/10/26/%E3%80%8A%E4%B8%9C%E4%BA%AC%E8%80%81%E9%93%BA%E3%80%8B%E6%9C%AD%E8%AE%B0/"/>
       <url>/2021/10/26/%E3%80%8A%E4%B8%9C%E4%BA%AC%E8%80%81%E9%93%BA%E3%80%8B%E6%9C%AD%E8%AE%B0/</url>
