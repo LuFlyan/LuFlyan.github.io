@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>hexo-butterfly 如何使用 disqus</title>
+      <link href="/2022/05/23/hexo-butterfly-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-disqus/"/>
+      <url>/2022/05/23/hexo-butterfly-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-disqus/</url>
+      
+        <content type="html"><![CDATA[<p>我要爆粗口了哈。</p><p>真的烦。</p><p>搞了好久才搞定。</p><p>官方文档也没说，配置的 api key 填的是 public key 还是 secret key。</p><p>就是这个狗八东西：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># disqus</span></span><br><span class="line"><span class="comment"># https://disqus.com/</span></span><br><span class="line"><span class="attr">disqus:</span></span><br><span class="line">  <span class="attr">shortname:</span> </span><br><span class="line">  <span class="attr">apikey:</span></span><br></pre></td></tr></table></figure><p>shortname 填写的应该是</p><p><img src="https://i.imgur.com/qLHsWms.png"></p><p>apikey 填写的应该是：</p><p><img src="https://i.imgur.com/nIixeRz.png"></p><p>可能因为我的设置是 public：</p><p><img src="https://i.imgur.com/DhuPdWI.png"></p><p>还有，这个 api 的查看入口，竟然没有直接的按钮可以点击进入，在这里记录一下入口：</p><p><a href="https://disqus.com/api/applications/">https://disqus.com/api/applications/</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>月曜日</title>
       <link href="/2022/02/07/%E6%9C%88%E6%9B%9C%E6%97%A5-1/"/>
       <url>/2022/02/07/%E6%9C%88%E6%9B%9C%E6%97%A5-1/</url>
