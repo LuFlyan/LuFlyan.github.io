@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>小记一下</title>
+      <link href="/2022/05/23/%E5%B0%8F%E8%AE%B0%E4%B8%80%E4%B8%8B/"/>
+      <url>/2022/05/23/%E5%B0%8F%E8%AE%B0%E4%B8%80%E4%B8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>以后还是写完之后再添加图片吧。</p><p>今天晚上折腾了一下，把这个博客给整了一下。</p><p>费时间。</p><p>很多思绪被打乱。</p><p>主要做的工作是：</p><ul><li>在这台 ThinkPad 上把博客重新搭建好。</li><li>新增了评论 disqus。</li><li>新增了本地搜索。</li></ul><p>以及一些小小的感受：</p><p>回头再看，物是人非。键盘是要多敲一敲的。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo-butterfly 如何使用 disqus</title>
       <link href="/2022/05/23/hexo-butterfly-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-disqus/"/>
       <url>/2022/05/23/hexo-butterfly-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-disqus/</url>
