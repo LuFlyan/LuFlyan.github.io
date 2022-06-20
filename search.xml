@@ -42,44 +42,6 @@
     
     
     <entry>
-      <title>第二封 email</title>
-      <link href="/2022/05/28/%E7%AC%AC%E4%BA%8C%E5%B0%81-email/"/>
-      <url>/2022/05/28/%E7%AC%AC%E4%BA%8C%E5%B0%81-email/</url>
-      
-        <content type="html"><![CDATA[<p>我现在由衷地感到愧疚。</p><p>我的心同样地痛苦。</p><p>可是，我有那么多途径排解，我有家人，我有室友。</p><p>你呢？想象你一个人承受那么多痛苦，我的心又开始慢慢往下沉。</p><p>衷心希望你所说的关系能够给你带来宽慰。</p><p>我承认我的错。我承认。我承认。</p><p>我会像透明人一样默默隐于重重帷幕之后。</p><p>寻求长生之道，寻求给你的心理带来宽慰的一切。</p><p>默默地，默默地。我将永远隐于幕后。</p><p>祝你复习和考试顺利。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 信 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一封 email</title>
-      <link href="/2022/05/28/%E4%B8%80%E5%B0%81-email/"/>
-      <url>/2022/05/28/%E4%B8%80%E5%B0%81-email/</url>
-      
-        <content type="html"><![CDATA[<p>首先，澄清一点，我并非来说你不好的事情。我给你写这个是希望能够稍微表达一点我的歉意。</p><p>昨晚刚解开以前的心结，现在又来了新的心结。</p><p>或者说，你将永远是我的心结。</p><p>我昨晚罗列了你的所有优点和所有缺点，以我的视角。</p><p>就像去年一样。</p><p>我发现，无论怎样，你无论怎样不好，我都无比的想念你，想念与你相处的时光。</p><p>或许，这就是你的特质。</p><p>爱情，好似鬼上身。</p><p>为什么，为什么我们无法过平凡的生活？这并不是在责备你。也不是自我反省。</p><p>因果是会不断往复的。</p><p>就像我现在听的仍然是去年伤心时听的 MLA，</p><p>你說之後會找我。</p><p>我一直在渴求，渴求你能只归属我一人。</p><p>从与你相处时间不长之后就一直如此。</p><p>从未变过。</p><p>我之前说的话，就想你说过的一样。</p><p>仅仅是联系。</p><p>而她，因为是传统女性，有着幸福的新男友。</p><p>我们静处一晚。各自聊，只有聊。</p><p>你。</p><p>你每一次提到你的别的关系，我都会心痛。</p><p>那心痛的程度，譬如我提及她一般，在你的面前，你的心痛。</p><p>是啊，我们的需求不对等。</p><p>我们终究无法到一块。</p><p>“我不禁剥削你，我还剥削你的家人。”</p><p>我承认，我的耐心不够。我缺乏照顾你的耐心。</p><p>我知道，我与你继续在一起，只会如爱、死亡与机器人的S3E09那一集一般，</p><p>你血染你的湖水，我沉入你的湖底。</p><p>你的特质。</p><p>我曾经无比轻视你的与人相处的方式。</p><p>如今在我身上，应验的是那是一种揪心的，掏心的方式。</p><p>我祈求你的原谅。</p><p>我祈求你的幸福。</p><p>我祈求你的事业顺遂。</p><p>你我之间。</p><p>心中实在难过，不得已而打扰你。见谅。我也希望能稍微减轻一点你的痛苦。再次致歉。</p><p>泪止不住地落。</p><p>从脸庞滑落。</p><p>从心脏中划过。</p><p>划过窗外的雨丝。</p><p>划过世界的尽头。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 信 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>小记一下</title>
       <link href="/2022/05/23/%E5%B0%8F%E8%AE%B0%E4%B8%80%E4%B8%8B/"/>
       <url>/2022/05/23/%E5%B0%8F%E8%AE%B0%E4%B8%80%E4%B8%8B/</url>
@@ -103,7 +65,7 @@
       <link href="/2022/05/23/hexo-butterfly-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-disqus/"/>
       <url>/2022/05/23/hexo-butterfly-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-disqus/</url>
       
-        <content type="html"><![CDATA[<p>我要爆粗口了哈。</p><p>真的烦。</p><p>搞了好久才搞定。</p><p>官方文档也没说，配置的 api key 填的是 public key 还是 secret key。</p><p>就是这个狗八东西：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># disqus</span></span><br><span class="line"><span class="comment"># https://disqus.com/</span></span><br><span class="line"><span class="attr">disqus:</span></span><br><span class="line">  <span class="attr">shortname:</span> </span><br><span class="line">  <span class="attr">apikey:</span></span><br></pre></td></tr></table></figure><p>shortname 填写的应该是</p><p><img src="https://i.imgur.com/qLHsWms.png"></p><p>apikey 填写的应该是：</p><p><img src="https://i.imgur.com/nIixeRz.png"></p><p>可能因为我的设置是 public：</p><p><img src="https://i.imgur.com/DhuPdWI.png"></p><p>还有，这个 api 的查看入口，竟然没有直接的按钮可以点击进入，在这里记录一下入口：</p><p><a href="https://disqus.com/api/applications/">https://disqus.com/api/applications/</a></p>]]></content>
+        <content type="html"><![CDATA[<p>我要爆粗口了哈。</p><p>真的烦。</p><p>搞了好久才搞定。</p><p>官方文档也没说，配置的 api key 填的是 public key 还是 secret key。</p><p>就是这个狗八东西：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># disqus</span></span><br><span class="line"><span class="comment"># https://disqus.com/</span></span><br><span class="line"><span class="attr">disqus:</span></span><br><span class="line">  <span class="attr">shortname:</span> </span><br><span class="line">  <span class="attr">apikey:</span></span><br></pre></td></tr></table></figure><p>shortname 填写的应该是</p><p><img src="https://i.imgur.com/qLHsWms.png"></p><p>apikey 填写的应该是：</p><p><img src="https://i.imgur.com/nIixeRz.png"></p><p>可能因为我的设置是 public：</p><p><img src="https://i.imgur.com/DhuPdWI.png"></p><p>还有，这个 api 的查看入口，竟然没有直接的按钮可以点击进入，在这里记录一下入口：</p><p><a href="https://disqus.com/api/applications/">https://disqus.com/api/applications/</a></p><hr><p>后面使用 hexo-fluid 主题时，直接使用 secret key 也是可以的。</p>]]></content>
       
       
       
